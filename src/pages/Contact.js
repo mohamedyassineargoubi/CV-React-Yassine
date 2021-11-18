@@ -39,26 +39,21 @@ const Contact = () => {
     </div>
     <div className="socialNetwork">
     <ul>
- <a href="http://www.google.com" target="_blank"
+ <a href="https://www.linkedin.com/in/mohamed-yassine-argoubi-8b0069177/" target="_blank"
  rel="noopener noreferrer">
     <h4>LinkedIn</h4>
        <i className="fab fa-linkedin"> </i>
  </a>
- <a href="http://www.google.com" target="_blank"
+ <a href="https://github.com/mohamedyassineargoubi" target="_blank"
  rel="noopener noreferrer">
     <h4>Github</h4>
   <i className="fab fa-github"></i>
  </a>
- <a href="http://www.google.com" target="_blank"
+ <a href="https://www.facebook.com/yassou.est.5/" target="_blank"
  rel="noopener noreferrer">
-    <h4>Twitter</h4>
-  <i className="fab fa-twitter"></i>
+    <h4>Facebook</h4>
+  <i className="fab fa-facebook"></i>
  </a>
-  <a href="http://www.google.com" target="_blank"
-    rel="noopener noreferrer">
-    <h4>CodePen</h4>
-  <i className="fab fa-codepen"></i>
-  </a>
 </ul>
  
 </div>

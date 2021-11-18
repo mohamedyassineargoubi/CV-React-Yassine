@@ -47,17 +47,15 @@ const Navigation = () => {
       <div className="socialNetwork">
           <ul>
               <li>
-                <a href="http://www.google.com" target="_blank" rel = "noopener noreferrer"><i className = "fab fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/mohamed-yassine-argoubi-8b0069177/" target="_blank" rel = "noopener noreferrer"><i className = "fab fa-linkedin"></i></a>
               </li>
               <li>
-                <a href="http://www.google.com" target="_blank" rel = "noopener noreferrer"><i className = "fab fa-github"></i></a>
+                <a href="https://github.com/mohamedyassineargoubi" target="_blank" rel = "noopener noreferrer"><i className = "fab fa-github"></i></a>
               </li>
               <li>
-                <a href="http://www.google.com" target="_blank" rel = "noopener noreferrer"><i className = "fab fa-twitter"></i></a>
+                <a href="https://www.facebook.com/yassou.est.5/" target="_blank" rel = "noopener noreferrer"><i className = "fab fa-facebook"></i></a>
               </li>
-              <li>
-                <a href="http://www.google.com" target="_blank" rel = "noopener noreferrer"><i className = "fab fa-codepen"></i></a>
-              </li>
+          
           </ul>
           <div className="signature">
              <p> Yassine - 2021</p>
