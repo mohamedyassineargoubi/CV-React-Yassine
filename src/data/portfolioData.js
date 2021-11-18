@@ -1,56 +1,39 @@
 export const portfolioData = [
   {
     id: 1,
-    name: 'ipsum.com',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project1.JPG'
+    name: ' CV ONLINE ',
+    languages: ['javascript','react'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt','fab fa-react'],
+    source: 'https://github.com/mohamedyassineargoubi/cv-react-yassine',
+    info: 'Projet React dans lequel nous verrons comment réaliser un CV sous la forme d’une Single Page Application.',
+    picture: './media/Cv_Project.JPG'
   },
   {
     id: 2,
-    name: 'lorem.fr',
-    languages: ['javascript','react'],
-    languagesIcons: ['fab fa-js','fab fa-react'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project2.JPG'
+    name: 'CRUD FOR NOBO ',
+    languages: ['javascript','css','react'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt','fab fa-react'],
+    source: 'https://github.com/mohamedyassineargoubi/testTechniqueNobo',
+    info: 'Projet React dans lequel nous verrons comment réaliser un CRUD sous la forme d’une Single Page Application pour la société NOBO.',
+    picture: './media/Nobo_Project.JPG'
   },
   {
     id: 3,
-    name: 'dolorset.fr',
-    languages: ['javascript','php','css'],
-    languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project3.JPG'
+    name: 'WORLD PROJECT',
+    languages: ['javascript','react'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt','fab fa-react'],
+    source: 'https://github.com/mohamedyassineargoubi/World_React_Project',
+    info: 'Projet React dans lequel nous verrons comment réaliser un Projet qui s’appel World sous la forme d’une Single Page Application qui contient tout les prérequis pour comprendre REACT.',
+    picture: './media/World_Project.JPG'
   },
   {
     id: 4,
-    name: 'laboriosam.fr',
-    languages: ['javascript','php','react'],
-    languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
+    name: 'REDUX PROJECT',
+    languages: ['javascript','react'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt','fab fa-react'],
     source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project4.JPG'
+    info: 'Projet React dans lequel nous verrons comment réaliser un Projet Redux sous la forme d’une Single Page Application qui contient tout les prérequis pour comprendre Redux.',
+    picture: './media/Redux_Project.JPG'
   },
-  {
-    id: 5,
-    name: 'repudiante.com',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project5.JPG'
-  },
-  {
-    id: 6,
-    name: 'test.io',
-    languages: ['javascript','react', 'css'],
-    languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project6.JPG'
-  },
+
 ]
